@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RunSpecificFeature</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c116e82-b5ae-4866-979f-a27fe4469b38</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('HrmTestData/HrmData')</defaultValue>
+      <description></description>
+      <id>fe427190-a275-4b8a-b65c-76d4d03ae124</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('HrmTestData/HrmData')</defaultValue>
+      <description></description>
+      <id>8d4945f4-d33f-4139-ae5f-40c9392f7a8c</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+</TestCaseEntity>
